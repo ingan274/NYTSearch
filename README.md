@@ -1,2 +1,2 @@
-# NYTSearch
-New York Time Search
+# New York Times Search Activity
+Search NYT API for the top articles!
