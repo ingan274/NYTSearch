@@ -3,8 +3,35 @@
 font-family: 'Literata', serif; */
 
 .header {
-    background: url(../assets/imgs/headback.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.582) , rgba(0,0,0,0)), url(../imgs/headback.jpg);
+    height: 400px;
     font-family: 'Literata', serif;
     font-weight: 700;
     color: white;
+    background-size: cover;
+
+    text-align: center;
+    font-size: 60px;
+    padding-top: 100px;
+}
+
+form {
+    display: block;
+    width: 50%;
+    margin: 30px 50px 30px 50px;
+}
+
+.btn{
+    display: inline-block;
+    width: 30%;
+    margin: 30px auto;
+}
+
+.articles {
+    background-color: #0e4d92;
+    color: white;
+    font-family: 'Literata', serif;
+    font-weight: 500;
+    margin: 50px auto;
+
 }
