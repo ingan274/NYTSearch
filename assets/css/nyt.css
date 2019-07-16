@@ -1,0 +1,9 @@
+/* <link href="https://fonts.googleapis.com/css?family=Literata:400,400i,500,700&display=swap" rel="stylesheet">
+
+font-family: 'Literata', serif; */
+
+.header {
+    background: url(../assets/imgs/headback.jpg);
+    font-family: 'Literata', serif;
+    font-weight: 700;
+}
